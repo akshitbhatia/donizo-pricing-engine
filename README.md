@@ -292,7 +292,7 @@ docker run -p 8000:8000 donizo-pricing-engine
 - Configure auto-scaling based on load
 - Implement proper security measures
 
-## 📝 License
+## License
 
 MIT License - see LICENSE file for details.
 # donizo-pricing-engine
